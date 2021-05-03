@@ -1,7 +1,7 @@
 # Module 7: Pewlett-Hackard-Analysis / Employee Database with SQL
 
 ## Purpose: Explain the purpose of this analysis.
-Our boss has give us the task of determining the number of retiring employees per title and identifying employees who are eligible to participate in a mentorship program. Then, we are to write a report that summarizes our analysis and help prepare our manager for the “silver tsunami”-- when current employees reach their retirement age.
+Our boss has given us the task of determining the number of retiring employees per title and identifying employees who are eligible to participate in a mentorship program. Then, we are to write a report that summarizes our analysis and help prepare our manager for the “silver tsunami”-- when current employees reach their retirement age.
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 - About 60% of the reitiring titles are SENIOR ENGINEERS AND SENIOR STAFF.  
