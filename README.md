@@ -16,8 +16,8 @@ And here is a link to the dataset list/ csv file for those that are eligible to 
 [mentorship_eligibility](https://github.com/avillan10/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 ## Summary
-### 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+### - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 The number of positions that fall into the upcoming "silver tsunami" is 90,398 future retirees. That is alot of upcoming open positions to prepare for. 
 
-### 2.) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 No, there are more people retiring than there are eligible mentors that will guide/aid future PH employees. 
